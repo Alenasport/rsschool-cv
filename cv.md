@@ -1,5 +1,5 @@
-
                                                          Yarshevich Alena
+                                                         
 Pobediteley Avenue 135B-125, Minsk, Belarus
             +375296123226, alenayarshevich@gmail.com
 Born:12.12.1984 
