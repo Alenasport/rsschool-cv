@@ -9,3 +9,40 @@ Refrain from demeaning, discriminatory, toxic or harassing behavior and speech.
 Create a positive impact on everything around them.
 Participate in an authentic and active way.
 But if you need a more explicit list: Unacceptable behaviors include harassing, abusive, discriminatory, or derogatory conduct.
+
+    @font-face {
+        font-family: 'Roboto';
+        src: url("assets/fonts/RobotoThin.ttf");
+        font-weight: 100;
+      }
+      @font-face {
+        font-family: 'Roboto';
+        src: url("assets/fonts/RobotoRegular.ttf");
+        font-weight: 300;
+      }
+
+img {
+    background-image: url('../assets/img/image.jpg');
+}
+
+* {
+    box-sizing: border-box;
+}
+
+header {
+    border: 1px solid red;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+main {
+    border: 1px solid red;
+
+}
+footer {
+    border: 1px solid red;
+}
