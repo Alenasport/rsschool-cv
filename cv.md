@@ -5,7 +5,7 @@ Pobediteley Avenue 135B-125, Minsk, Belarus
 Born:12.12.1984 
 Marital status: single
 Education: 2002-2007 Private Institute of Management and Entrepreneurship, Minsk, Belarus, Master of Economy Science
-
+---------------------------------------------------------------------------------------------------------------------
 Experience (last 3 jobs):
 16/07/13 – 24/12/20, Triera-Steel LLC (wholesales), Director
 - Determining the company's strategic objectives and policies
