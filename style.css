@@ -19,7 +19,7 @@ img {
 }
 
 header {
-    border: 1px solid red;
+    border: 1px solid rgb(255, 0, 119);
 }
 
 body {
@@ -29,11 +29,20 @@ body {
     justify-content: space-between;
 }
 main {
-    border: 1px solid red;
-
+    border: 1px solid rgb(255, 0, 119);
+  
 }
+
+h1 {
+  font-size: 24px;
+  }
+
+  h2 {
+    font-size: 14px;
+    }
+
 footer {
-    border: 1px solid red;
+    border: 1px solid rgb(255, 0, 119);
 }
 
 .container {
